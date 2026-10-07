@@ -1,4 +1,4 @@
-import java.sql.SQLOutput;
+//import java.sql.SQLOutput;
 
 public class JaggedArray {
     public static void main(String[] args) {
@@ -11,10 +11,10 @@ public class JaggedArray {
                 {11,22,33,44}
         };
         System.out.println(n[1][0]);
-        for(int[] i : n)
-        {
-            System.out.print(i);
-        }
+//        for(int[] i : n)
+//        {
+//            System.out.print(i);
+//        }
 
 
         int [][] arr = new int[4][];
